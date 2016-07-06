@@ -9,5 +9,5 @@ The model geometry assumes that some lyman profile is generated in the chromosph
 is absorbed and reemitted on the photsphere by the molecular hydrogen. 
 
 ##Contributors
-Major contributions to this code were provided by Kevin, France, Matt Mcjunkin, and Allison Youngblood (https://github.com/allisony). 
+Major contributions to this code were provided by Kevin France, Matt Mcjunkin, and Allison Youngblood (https://github.com/allisony). 
 My contribution was mainly compiling all the code and re-purposing the model for the task at hand. 
